@@ -37,8 +37,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={"Orangy | The all in one, and free Discord bot!"}
+      description="Welcome to Orangy's Docs!">
       <HomepageHeader />
       <main />
     </Layout>
