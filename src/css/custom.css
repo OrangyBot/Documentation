@@ -1,0 +1,56 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+:root {
+  --color-main: #242526;
+  --color-navbar: #ffffff;
+  --color-red: #f12e36;
+  --ifm-color-primary: #ff6a00;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: #ffffff;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --color-main: #ffffff;
+  --color-navbar: #1b1c21;
+  --color-red: #f12e36;
+  --ifm-color-primary: #ffad4f;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: #ffffff;
+}
+
+a, li {
+  font-family: "ABeeZee", sans-serif;
+}
+
+b, h1, h2, h3, p, button, div {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar, .background-main, .row, main, .main-wrapper, nav, .footer--dark {
+  background-color: var(--color-navbar);
+}
+
+.footer a, .footer__title, .footer__copyright {
+  color: var(--color-main);
+}

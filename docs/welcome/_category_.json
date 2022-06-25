@@ -1,0 +1,9 @@
+{
+    "label": "Info",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Hey! These docs are still a work-in-progress, you can do the following to help us improve this website:"
+    }
+  }
+  
