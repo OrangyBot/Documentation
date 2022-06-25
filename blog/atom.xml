@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.orangybot.me/blog</id>
+    <title>Orangy Blog</title>
+    <updated>2022-06-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.orangybot.me/blog"/>
+    <subtitle>Orangy Blog</subtitle>
+    <icon>https://docs.orangybot.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Orangy's new docs!]]></title>
+        <id>welcome-to-orangys-new-docs</id>
+        <link href="https://docs.orangybot.me/blog/welcome-to-orangys-new-docs"/>
+        <updated>2022-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey there, and welcome to Orangy's new docs website!]]></summary>
+        <content type="html"><![CDATA[<p>Hey there, and welcome to Orangy's new docs website!
+This website currently includes the <a href="/docs/welcome">Documentation</a> and <a href="/blog">Changelog</a> categories, but a few more things may be added in the near future!</p><p>We will be adding some info about the new bot updates in here, along with a few posts about Orangy v2 (that's going to be released pretty soon 👀).
+Make sure to join Orangy's <a href="https://discord.gg/j2WEAVnc3t" target="_blank" rel="noopener noreferrer">official Discord server</a> to stay updated! 🍊</p><p>Also thank you for (probably) clicking on "Read More" :)</p>]]></content>
+        <author>
+            <name>Dotto</name>
+            <uri>https://orangybot.me</uri>
+        </author>
+        <category label="Documentation" term="Documentation"/>
+        <category label="Changelog" term="Changelog"/>
+    </entry>
+</feed>
