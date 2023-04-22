@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorangy_documentation=self.webpackChunkorangy_documentation||[]).push([[843],{4819:a=>{a.exports=JSON.parse('{"label":"Changelog","permalink":"/Documentation/blog/tags/changelog","allTagsPath":"/Documentation/blog/tags","count":1}')}}]);

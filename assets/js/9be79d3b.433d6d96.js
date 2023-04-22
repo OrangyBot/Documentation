@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorangy_documentation=self.webpackChunkorangy_documentation||[]).push([[957],{9306:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/changelog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

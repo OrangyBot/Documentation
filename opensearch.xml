@@ -4,8 +4,8 @@
   <ShortName>Orangy</ShortName>
   <Description>Search Orangy</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.orangybot.me/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.orangybot.me/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.orangybot.me/opensearch.xml" />
-  <moz:SearchForm>https://docs.orangybot.me/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://orangybot.github.io/Documentation/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://orangybot.github.io/Documentation/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://orangybot.github.io/Documentation/opensearch.xml" />
+  <moz:SearchForm>https://orangybot.github.io/Documentation/</moz:SearchForm>
 </OpenSearchDescription>

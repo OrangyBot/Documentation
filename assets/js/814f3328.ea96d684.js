@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorangy_documentation=self.webpackChunkorangy_documentation||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Orangy\'s new docs!","permalink":"/blog/welcome-to-orangys-new-docs"}]}')}}]);
