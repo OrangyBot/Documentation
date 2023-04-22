@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Orangy',
   tagline: 'The all in one, and free Discord bot!',
-  url: 'https://docs.orangybot.me',
-  baseUrl: '/',
+  url: 'https://orangybot.github.io',
+  baseUrl: '/Documentation',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
