@@ -7,7 +7,7 @@ const config = {
   title: 'Orangy',
   tagline: 'The all in one, and free Discord bot!',
   url: 'https://orangybot.github.io',
-  baseUrl: '/Documentation',
+  baseUrl: '/Documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
